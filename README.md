@@ -66,9 +66,9 @@ Amazon-Clone/
 └── (Optional: JS file for interactivity)
 # Amazon Clone
 
-This is a **frontend Amazon clone** project that replicates the **visual structure** of Amazon's homepage. Built using **HTML** and **CSS**, it is designed as a static version for educational and practice purposes.
 
-## 🌟 Features
+
+## 🌟 About
 
 - **Header**:
   - Amazon logo, search bar, navigation links (Accounts & Lists, Returns & Orders, Cart).
@@ -79,10 +79,6 @@ This is a **frontend Amazon clone** project that replicates the **visual structu
 - **Footer**:
   - Contains informational links like Get to Know Us, Careers, Blog, Investor Relations, Amazon Devices, and Amazon Science.
 
-## 📸 Preview
-
-![Amazon Clone Preview](./screenshots/preview1.png)
-![Amazon Clone Categories](./screenshots/preview2.png)
 
 
 
